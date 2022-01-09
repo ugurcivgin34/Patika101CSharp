@@ -103,7 +103,7 @@ namespace Patika101CSharp
                 }
             }
             Console.WriteLine("Kelime sayısı "+kelime);
-            Console.WriteLine("Harf sayısı " + ((harf )));
+            Console.WriteLine("Harf sayısı " + ((harf)));
 
 
         }
